@@ -1,0 +1,14 @@
+{
+  "name": "Burrow Blocker",
+  "description": "MVP for Burrow's Extension",
+  "version": "0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "burrow.html",
+    "default_icon": "gopher.png"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
+}
