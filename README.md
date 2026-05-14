@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: 100px">
-<img src="./assets/images/logo.png" style="max-width: 50%"></img>
+<img src="./assets/images/logo.png" style="max-width: 500px"></img>
 <h1>Burrow</h1>
 <p>A cross-platform content blocker that goes beyond static blocklists</p>
 </div>
